@@ -6002,4 +6002,6 @@
     <!-- High touch rate -->
     <string name="touch_rate_title">Увеличить частоту опроса сенсора</string>
     <string name="touch_rate_summary">Улучшает отклик сенсора за счет более высокой частоты опроса</string>
+    <!-- Haptic Effect Style -->
+    <string name="haptic_effect_style_title">Стиль тактильного отклика</string>
 </resources>

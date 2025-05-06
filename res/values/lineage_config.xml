@@ -58,6 +58,10 @@
 
     <!-- Show Now Playing -->
     <bool name="config_show_now_playing">false</bool>
+
     <!-- Show high touch polling rate option -->
-    <bool name="config_supportHighTouchRate" translatable="false">false</bool>
+    <bool name="config_supportHighTouchRate">false</bool>
+
+    <!-- Show haptic styles -->
+    <bool name="config_supportHapticProfiles">false</bool>
 </resources>

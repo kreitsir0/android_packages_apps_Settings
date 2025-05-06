@@ -550,4 +550,16 @@
     <item msgid="5687603742365489342">"Быстрые настройки"</item>
     <item msgid="5454862951059393431">"Блокировка экрана"</item>
   </string-array>
+  <!-- Haptic Effect Styles -->
+  <string-array name="haptic_effect_style_entries">
+    <item>RichTap</item>
+    <item>Хруст</item>
+    <item>Нежность</item>
+  </string-array>
+
+  <string-array name="haptic_effect_style_values">
+    <item>richtap</item>
+    <item>crisp</item>
+    <item>gentle</item>
+  </string-array>
 </resources>
