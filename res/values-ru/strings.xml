@@ -5999,4 +5999,7 @@
     <string name="safety_center_account_security_search_terms" msgid="3950829613581775913"></string>
     <string name="safety_center_device_finder_search_terms" msgid="452013643838126923"></string>
     <string name="safety_center_system_component_update_search_terms" msgid="3110390275537109543"></string>
+    <!-- High touch rate -->
+    <string name="touch_rate_title">Увеличить частоту опроса сенсора</string>
+    <string name="touch_rate_summary">Улучшает отклик сенсора за счет более высокой частоты опроса</string>
 </resources>

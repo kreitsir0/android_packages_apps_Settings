@@ -14955,4 +14955,7 @@
     <string name="safety_center_device_finder_search_terms"></string>
     <!-- Safety Center system component update search terms [CHAR LIMIT=NONE] -->
     <string name="safety_center_system_component_update_search_terms"></string>
+    <!-- High touch rate -->
+    <string name="touch_rate_title">Increase touch polling rate</string>
+    <string name="touch_rate_summary">Improves touch response by utilizing a higher polling rate</string>
 </resources>
